@@ -62,12 +62,7 @@ export default function Hero() {
             </div>
           </div>
 
-          <div className="flex justify-center lg:justify-end">
-            <div className="relative">
-              <div className="absolute inset-0 rounded-full bg-brand/10 blur-2xl scale-110" />
-              <LogoMark className="relative w-48 h-48 sm:w-60 sm:h-60 shadow-2xl" />
-            </div>
-          </div>
+  
         </div>
       </div>
 
